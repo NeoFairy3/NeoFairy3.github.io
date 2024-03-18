@@ -386,6 +386,7 @@ body {
 
 .questions__img{
     display: block;
+    max-width: 24px ;
 }
 
 .questions__copy{
